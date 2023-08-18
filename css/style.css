@@ -1,0 +1,44 @@
+*{
+    font-family: "SF Pro Text",sans-serif;
+}
+.rowii{
+    padding: 15px;
+    display: flex !important;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+}
+.h1ii{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: #006aff;
+    font-size: 20px;
+}
+.pii{
+    color: #1c1c1c;
+    padding-top: 20px;
+    font-size: 17px;
+}
+.p2ii{
+    padding-top: 20px;
+    color: #575757;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}   
+img{
+    border-radius: 10px;
+}
+.colii{
+    border-radius: 10px;
+}
+.btnii{
+    padding: 10px 15px;
+    color: #ffff;
+    background: #006aff;
+    font-size: 13px;
+    border: none;
+    border-radius: 10px;
+}
